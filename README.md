@@ -1,4 +1,4 @@
-# Learning spatially varying regularization via TransMorph
+# Learning spatially varying regularization for medical image registration via TransMorph
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> [![arXiv](https://img.shields.io/badge/arXiv-2303.06168-b31b1b.svg)](https://arxiv.org/abs/2303.06168)
 
 keywords: image registration, spatially-varying regularization
