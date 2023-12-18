@@ -8,7 +8,7 @@ This is an official PyTorch implementation of the preprint: "Spatially-varying R
 **You may find the preprocessed IXI dataset here: [TransMorph on IXI](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration/blob/main/IXI/TransMorph_on_IXI.md)**
 
 ## Network architecture:
-<img src="https://github.com/junyuchen245/Spatially_varying_regularization/blob/main/Figs/overall_framework.jpg" width="800"/>
+<img src="https://github.com/junyuchen245/Spatially_varying_regularization/blob/main/Figs/overall_framework_.jpg" width="800"/>
 
 ## Learned regularization weights:
 <img src="https://github.com/junyuchen245/Spatially_varying_regularization/blob/main/Figs/adaptive_weights.jpg" width="800"/>
