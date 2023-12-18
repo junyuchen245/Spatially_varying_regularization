@@ -3,7 +3,7 @@
 
 keywords: image registration, spatially-varying regularization
 
-This is an official implementation of the preprint: "Spatially-varying Regularization with Conditional Transformer for Unsupervised Image Registration" [arXiv](https://arxiv.org/abs/2303.06168).
+This is an official PyTorch implementation of the preprint: "Spatially-varying Regularization with Conditional Transformer for Unsupervised Image Registration" [arXiv](https://arxiv.org/abs/2303.06168).
 
 **You may find the preprocessed IXI dataset here: [TransMorph on IXI](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration/blob/main/IXI/TransMorph_on_IXI.md)**
 
